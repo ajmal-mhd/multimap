@@ -1,0 +1,10 @@
+# Request
+string target_map
+float32[] waypoint
+---
+# Result  
+bool success
+string message
+---
+# Feedback
+string current_status
